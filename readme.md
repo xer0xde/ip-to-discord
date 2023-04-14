@@ -1,6 +1,3 @@
-<head>
-	<title>Webhook Discord IP Sender/title>
-</head>
 <body>
 	<h1>Webhook Discord IP Sender</h1>
 	<p>This code uses Node.js to periodically check the public IP address of a server and send a Discord webhook if the IP has changed. It requires the installation of the 'public-ip' and 'axios' packages.</p>
