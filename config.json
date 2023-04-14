@@ -1,0 +1,4 @@
+{
+    "webhookUrl": "YourWebhook",
+    "interval": 300000
+}

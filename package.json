@@ -1,0 +1,10 @@
+{
+  "name": "ip-updater",
+  "version": "1.0.0",
+  "description": "Updates a Discord webhook with the server's IP address",
+  "main": "index.js",
+  "dependencies": {
+    "public-ip": "^4.0.0",
+    "axios": "^0.24.0"
+  }
+}
